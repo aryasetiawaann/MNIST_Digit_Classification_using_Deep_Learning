@@ -38,6 +38,6 @@ The MNIST dataset is a benchmark dataset for handwritten digit classification:
 - **Testing Accuracy**: 89.3%.
 
 **Confusion Matrix**
-![Confusion Matrix]('Images/conf_mat.png')
+![Confusion Matrix](Images/conf_mat.png)
 
 ---
