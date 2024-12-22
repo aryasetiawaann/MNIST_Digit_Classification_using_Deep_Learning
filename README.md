@@ -36,6 +36,5 @@ The MNIST dataset is a benchmark dataset for handwritten digit classification:
 ## Results
 - **Training Accuracy**: 94.8%.
 - **Testing Accuracy**: 89.3%.
-- **Sample Prediction**: Visualizes a few test images with their true and predicted labels.
 
 ---
